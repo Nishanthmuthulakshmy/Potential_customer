@@ -4,8 +4,6 @@ Propensify is a propensity modeling project designed to identify the likelihood 
 # Data Overview
 The project uses datasets containing customer information, which includes features such as age, profession, marital status, and other relevant attributes. The target variable indicates whether the customer responded positively to marketing efforts.
 
-#!/usr/bin/env python
-# coding: utf-8
 
 # ## Propensity model to identify potential customers
 # 
